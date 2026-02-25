@@ -1,1 +1,1 @@
-vless://46c4bca1-3899-496c-9fd5-358fc5b08d01@85.158.110.62:8443?security=reality&encryption=none&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#VPNKEY-Netherlands
+https://raw.githubusercontent.com/coldwater-10/V2Hub3/main/Split/Normal/vmess
